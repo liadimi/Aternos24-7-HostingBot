@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK AETHERA BOT",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "AETHERA-SMP.aternos.me",
+    "port": 24125,
     "version": "1.21.1"
   },
   "position": {
