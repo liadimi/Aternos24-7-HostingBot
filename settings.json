@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AETHERA-SMP.aternos.me",
+    "ip": "rainbowfish.aternos.host:24125",
     "port": 24125,
     "version": "1.21.1"
   },
