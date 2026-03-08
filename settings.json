@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rainbowfish.aternos.host:24125",
+    "ip": "rainbowfish.aternos.host",
     "port": 24125,
     "version": "1.21.1"
   },
